@@ -1,3 +1,8 @@
+git mv readme.txt README.md
+git add README.md
+git commit -m "Rename to README.md"
+git push origin main
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
