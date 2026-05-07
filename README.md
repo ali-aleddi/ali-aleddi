@@ -1,37 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=ALI+EDDI+HIL;PYTHON+DEVELOPER;CYBERSECURITY+ENTHUSIAST;KALI+LINUX+USER;WELCOME+TO+MY+GITHUB+PROFILE" />
-</p>
+<div align="center">
+
+# &lt; Ali Aleddi /&gt;
+### Python Developer & Security Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q5dGQ0OHJvMm92ZnZobzA0NnJ4YzQ2MDRnMmZ6MWhqN2F2dW1sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Syria-CE1126?style=for-the-badge&logo=syria&logoColor=white" alt="Syria"/>
 </p>
-
-<h1 align="center">
-  ⚡ ALI EDDI HIL ⚡
-</h1>
-
-<h3 align="center">
-  Python Developer • Security Explorer • Open Source Lover
-</h3>
 
 ---
 
-# 🧠 About Me
+</div>
 
+## 👨‍💻 About Me
+* 🎯 **Focus:** Python Development
+* 🔐 **Passion:** Cybersecurity
+* 🌍 **Location:** Syria 🇸🇾
+* 🚀 **Status:** Always Learning
+
+<br>
+
+## ⚡ Primary Editor
 ```python
-class AliEddiHil:
+# Welcome to Ali Aleddi's workspace 🚀
 
-    def __init__(self):
-        self.username = "ali-eddi"
-        self.language = "Python"
-        self.editor = "VS Code"
-        self.os = ["Windows", "Kali Linux"]
-        self.location = "Syria 🇸🇾"
-        self.focus = "Cybersecurity & Automation"
+class Developer:
+    name       = "Ali Aleddi"
+    language   = "Python"
+    editor     = "VS Code"  # ⚡ favourite tool
+    os         = "Kali Linux"
+    location   = "Syria 🇸🇾"
 
     def greet(self):
-        return "Welcome to my GitHub profile 🚀"
+        print(f"Hello from {self.location} 👋")
 
-
-me = AliEddiHil()
-print(me.greet())
+Developer().greet()  # Hello from Syria 🇸🇾 👋
