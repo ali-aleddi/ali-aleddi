@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ALI%20ALEDDI&fontAlign=50&fontAlignY=40&color=0:00E5FF,50:7B2FE0,100:00E676&fontColor=ffffff&fontSize=58&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Python+Developer;Cybersecurity+Enthusiast;VS+Code+Power+User;Kali+Linux+Explorer;Always+Learning+New+Things" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJpYjlwb3E3MG9jNGVxMHZmcnN6YWw0OW43MW5mN2JjZ3R3a3VqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="180" />
+
 ```python
 class Developer:
     name = "Ali Aleddi"
@@ -102,6 +108,18 @@ Developer().greet()
 
 ---
 
+# ⚡ Live Activity Zone
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -111,6 +129,16 @@ Developer().greet()
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" width="100%" />
 
 </div>
 
@@ -146,7 +174,7 @@ Developer().greet()
 
 <div align="center">
 
-### ❤️ MADE WITH PASSION BY ALI ALEDDI ❤️
+### ❤️ MADE WITH PASSION BY ALI ALEDDI 2026 ❤️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7B2FE0&height=120&section=footer" />
 
